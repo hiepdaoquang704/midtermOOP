@@ -1,6 +1,7 @@
 # midtermOOP
-Đây là code  của bài giữa kì môn học OOP năm học 2024_2025.1<br>
+Đây là code  của bài giữa kì môn học OOP năm học 2024_2025.1 của nhóm 10 lớp OOP N01<br>
 Phân chia công việc: Hiệp: DiscreteSignal; Hiếu Radar. <br>
+
 Mô tả chung:<br>
 Mô tả lớp DiscreteSignal:<br>
 Thuộc tính:<br>
